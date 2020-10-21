@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8E0DDBF5-CCF5-4015-B3FF-5FBF5F738E4A}|Default">
+  <MonoDevelop.Ide.ItemProperties.IosHelloApp automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D25667A6-177A-4CCE-9B46-5331E0341204" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IosHelloApp/LoginViewController.cs">
+    <Files>
+      <File FileName="IosHelloApp/SettingsController.cs" Line="18" Column="46" />
+      <File FileName="IosHelloApp/TableViewDataSource.cs" />
+      <File FileName="IosHelloApp/LoginViewController.cs" Line="33" Column="45" />
+      <File FileName="IosHelloApp/RegistrationViewController.cs" />
+      <File FileName="IosHelloApp/Main.storyboard" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IosHelloApp" expanded="True">
+            <Node name="IosHelloApp" expanded="True">
+              <Node name="LoginViewController.cs" selected="True" />
+              <Node name="RegistrationViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IosHelloApp.UITests FirstBuild="True" />
+</Properties>

@@ -1,0 +1,30 @@
+# Version: 13.20.2.2 (d16-7): 817b6f72a
+/Library/Frameworks/Xamarin.iOS.framework/Versions/13.20.2.2/lib/mtouch/mtouch.exe \
+	--debug \
+	--sgen-conc \
+	'/target-framework:Xamarin.iOS,Version=v1.0' \
+	--http-message-handler=NSUrlSessionHandler \
+	'\"--cache=/Users/kartik/Projects/IosHelloApp/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/mtouch-cache\"' \
+	--root-assembly=/Users/kartik/Projects/IosHelloApp/IosHelloApp/bin/iPhoneSimulator/Debug/IosHelloApp.exe \
+	--sdkroot=/Applications/Xcode.app/Contents/Developer \
+	'\"--sim=/Users/kartik/Projects/IosHelloApp/IosHelloApp/bin/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/IosHelloApp.app\"' \
+	--executable=IosHelloApp \
+	--nolink \
+	--sdk=14.0 \
+	--targetver=13.6 \
+	--aot-options=-O=-float32 \
+	--abi=x86_64 \
+	'\"--symbollist=/Users/kartik/Projects/IosHelloApp/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/mtouch-symbols.list\"' \
+	--dsym=no \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/OpenTK-1.0.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Drawing.Common.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.Vectors.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r=/Users/kartik/.nuget/packages/xamarin.essentials/1.5.3.2/lib/xamarinios10/Xamarin.Essentials.dll \
+	-r=/Users/kartik/.nuget/packages/xamarin.testcloud.agent/0.21.9/lib/Xamarin.iOS/Calabash.dll \
+	'@/Users/kartik/Projects/IosHelloApp/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/response-file.rsp' \

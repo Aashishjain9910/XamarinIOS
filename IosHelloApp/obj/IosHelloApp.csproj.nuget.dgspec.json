@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kartik/Projects/IosHelloApp/IosHelloApp/IosHelloApp.csproj": {}
+  },
+  "projects": {
+    "/Users/kartik/Projects/IosHelloApp/IosHelloApp/IosHelloApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kartik/Projects/IosHelloApp/IosHelloApp/IosHelloApp.csproj",
+        "projectName": "IosHelloApp",
+        "projectPath": "/Users/kartik/Projects/IosHelloApp/IosHelloApp/IosHelloApp.csproj",
+        "packagesPath": "/Users/kartik/.nuget/packages/",
+        "outputPath": "/Users/kartik/Projects/IosHelloApp/IosHelloApp/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/kartik/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.TestCloud.Agent": {
+              "target": "Package",
+              "version": "[0.21.9, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZW8+xDLkzWANWdGBTzILqdXOBdPbePWIxTk02TX47VkjlT6kf/dR4zWRtWGQRJ9UNdc5x5x9CCDreLTDURTDGg==",
+  "success": true,
+  "projectFilePath": "/Users/kartik/Projects/IosHelloApp/IosHelloApp.UITests/IosHelloApp.UITests.csproj",
+  "expectedPackageFiles": [
+    "/Users/kartik/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512",
+    "/Users/kartik/.nuget/packages/sqlite-net-pcl/1.7.335/sqlite-net-pcl.1.7.335.nupkg.sha512",
+    "/Users/kartik/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
+    "/Users/kartik/.nuget/packages/sqlitepclraw.core/2.0.3/sqlitepclraw.core.2.0.3.nupkg.sha512",
+    "/Users/kartik/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.3/sqlitepclraw.lib.e_sqlite3.2.0.3.nupkg.sha512",
+    "/Users/kartik/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.3/sqlitepclraw.provider.dynamic_cdecl.2.0.3.nupkg.sha512",
+    "/Users/kartik/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
+    "/Users/kartik/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/kartik/.nuget/packages/system.numerics.vectors/4.4.0/system.numerics.vectors.4.4.0.nupkg.sha512",
+    "/Users/kartik/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/kartik/.nuget/packages/xamarin.uitest/3.0.5/xamarin.uitest.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
