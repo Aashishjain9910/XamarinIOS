@@ -1,19 +1,21 @@
 ﻿<Properties StartupConfiguration="{8E0DDBF5-CCF5-4015-B3FF-5FBF5F738E4A}|Default">
-  <MonoDevelop.Ide.ItemProperties.IosHelloApp automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D25667A6-177A-4CCE-9B46-5331E0341204" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="IosHelloApp/LoginViewController.cs">
+  <MonoDevelop.Ide.ItemProperties.IosHelloApp automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A49ABBC1-F3EA-4200-93BF-36AD9AD05F90" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IosHelloApp/AppDelegate.cs">
     <Files>
+      <File FileName="IosHelloApp/Main.storyboard" IsPinned="True" />
       <File FileName="IosHelloApp/SettingsController.cs" Line="18" Column="46" />
       <File FileName="IosHelloApp/TableViewDataSource.cs" />
-      <File FileName="IosHelloApp/LoginViewController.cs" Line="33" Column="45" />
+      <File FileName="IosHelloApp/LoginViewController.cs" Line="90" Column="2" />
       <File FileName="IosHelloApp/RegistrationViewController.cs" />
-      <File FileName="IosHelloApp/Main.storyboard" />
+      <File FileName="IosHelloApp/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="IosHelloApp/SceneDelegate.cs" Line="29" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="IosHelloApp" expanded="True">
             <Node name="IosHelloApp" expanded="True">
-              <Node name="LoginViewController.cs" selected="True" />
+              <Node name="AppDelegate.cs" selected="True" />
               <Node name="RegistrationViewController.cs" expanded="True" />
             </Node>
           </Node>

@@ -51,3 +51,56 @@
 /Users/kartik/Projects/IosHelloApp/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/optimized/icon_changePassword.png
 /Users/kartik/Projects/IosHelloApp/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/optimized/icon_password.png
 /Users/kartik/Projects/IosHelloApp/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/optimized/
+/Users/kartik/XamarinIOS/IosHelloApp/bin/iPhoneSimulator/Debug/IosHelloApp.exe
+/Users/kartik/XamarinIOS/IosHelloApp/bin/iPhoneSimulator/Debug/IosHelloApp.pdb
+/Users/kartik/XamarinIOS/IosHelloApp/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/kartik/XamarinIOS/IosHelloApp/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/kartik/XamarinIOS/IosHelloApp/bin/iPhoneSimulator/Debug/SQLitePCLRaw.nativelibrary.dll
+/Users/kartik/XamarinIOS/IosHelloApp/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/kartik/XamarinIOS/IosHelloApp/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/kartik/XamarinIOS/IosHelloApp/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/kartik/XamarinIOS/IosHelloApp/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/kartik/XamarinIOS/IosHelloApp/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/kartik/XamarinIOS/IosHelloApp/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/actool/_PartialAppManifest.items
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/actool/_BundleResourceWithLogicalName.items
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/coremlc/_PartialAppManifest.items
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/LogoST.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/icon-home.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/icon-wrench.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/Meeting_hub.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/NETFacilities.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/Images/Logout.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/Images/Profile.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/Digital_Insights.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/Kredin.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/Petrics.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/Survey_Builder.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/TiO_Homes.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/Traffic_Analyzer.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/icon-phone.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/icon-place-marker.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/icon-share.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/Logout.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/Profile.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/Meeting-hub-banner.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/Net-facilities-banner.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/Digital-insights-banner.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/Kredin-banner.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/Petrics-banner.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/Survey-builder-banner.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/icon_AboutUs.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/icon_ContactUs.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/icon_Gallery.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/icon_Portfolio.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/icon_edit.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/icon_changePassword.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/icon_password.png
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/IosHelloApp.csprojAssemblyReference.cache
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/IosHelloApp.csproj.CoreCompileInputs.cache
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/IosHelloApp.csproj.CopyComplete
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/IosHelloApp.exe
+/Users/kartik/XamarinIOS/IosHelloApp/obj/iPhoneSimulator/Debug/IosHelloApp.pdb

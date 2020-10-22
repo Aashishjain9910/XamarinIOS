@@ -630,11 +630,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kartik/Projects/IosHelloApp/IosHelloApp/IosHelloApp.csproj",
+      "projectUniqueName": "/Users/kartik/XamarinIOS/IosHelloApp/IosHelloApp.csproj",
       "projectName": "IosHelloApp",
-      "projectPath": "/Users/kartik/Projects/IosHelloApp/IosHelloApp/IosHelloApp.csproj",
+      "projectPath": "/Users/kartik/XamarinIOS/IosHelloApp/IosHelloApp.csproj",
       "packagesPath": "/Users/kartik/.nuget/packages/",
-      "outputPath": "/Users/kartik/Projects/IosHelloApp/IosHelloApp/obj/",
+      "outputPath": "/Users/kartik/XamarinIOS/IosHelloApp/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

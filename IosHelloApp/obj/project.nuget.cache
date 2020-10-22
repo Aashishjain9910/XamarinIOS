@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/3RLOFCaiXdILoTPWwQNcBP/5jV588ewMJxli423PoA2Pxf9hDNWStYvoe8K4GFWIeckxJx0KpPBrv+hGjmzFg==",
+  "dgSpecHash": "QO1ysTZ4Vk6XPiK00/M1DtB0RpqAnwbUtBwn0K8NIRIKXhqyUqXybXdQWcRJyFqcJ0cMzKbF0PrP6Q461in1Tg==",
   "success": true,
-  "projectFilePath": "/Users/kartik/Projects/IosHelloApp/IosHelloApp/IosHelloApp.csproj",
+  "projectFilePath": "/Users/kartik/XamarinIOS/IosHelloApp/IosHelloApp.csproj",
   "expectedPackageFiles": [
     "/Users/kartik/.nuget/packages/sqlite-net-pcl/1.7.335/sqlite-net-pcl.1.7.335.nupkg.sha512",
     "/Users/kartik/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",

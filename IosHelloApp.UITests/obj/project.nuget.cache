@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZW8+xDLkzWANWdGBTzILqdXOBdPbePWIxTk02TX47VkjlT6kf/dR4zWRtWGQRJ9UNdc5x5x9CCDreLTDURTDGg==",
+  "dgSpecHash": "NHartMXcqdECrizkBoFFdzCoK9z2QbUUGCQ50iYeEXC5oP5pKAGevJE4WibqfiJbp/FD6Eq1tF1GaasR991jVA==",
   "success": true,
-  "projectFilePath": "/Users/kartik/Projects/IosHelloApp/IosHelloApp.UITests/IosHelloApp.UITests.csproj",
+  "projectFilePath": "/Users/kartik/XamarinIOS/IosHelloApp.UITests/IosHelloApp.UITests.csproj",
   "expectedPackageFiles": [
     "/Users/kartik/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512",
     "/Users/kartik/.nuget/packages/sqlite-net-pcl/1.7.335/sqlite-net-pcl.1.7.335.nupkg.sha512",

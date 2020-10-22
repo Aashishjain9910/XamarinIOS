@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kartik/Projects/IosHelloApp/IosHelloApp.UITests/IosHelloApp.UITests.csproj": {}
+    "/Users/kartik/XamarinIOS/IosHelloApp.UITests/IosHelloApp.UITests.csproj": {}
   },
   "projects": {
-    "/Users/kartik/Projects/IosHelloApp/IosHelloApp.UITests/IosHelloApp.UITests.csproj": {
+    "/Users/kartik/XamarinIOS/IosHelloApp.UITests/IosHelloApp.UITests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kartik/Projects/IosHelloApp/IosHelloApp.UITests/IosHelloApp.UITests.csproj",
+        "projectUniqueName": "/Users/kartik/XamarinIOS/IosHelloApp.UITests/IosHelloApp.UITests.csproj",
         "projectName": "IosHelloApp.UITests",
-        "projectPath": "/Users/kartik/Projects/IosHelloApp/IosHelloApp.UITests/IosHelloApp.UITests.csproj",
+        "projectPath": "/Users/kartik/XamarinIOS/IosHelloApp.UITests/IosHelloApp.UITests.csproj",
         "packagesPath": "/Users/kartik/.nuget/packages/",
-        "outputPath": "/Users/kartik/Projects/IosHelloApp/IosHelloApp.UITests/obj/",
+        "outputPath": "/Users/kartik/XamarinIOS/IosHelloApp.UITests/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
